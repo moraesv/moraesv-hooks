@@ -1,0 +1,15 @@
+{
+  "name": "moraesv-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/moraesv/moraesv-hooks.git",
+  "author": "Vinicius de Moraes <vimoraescarvalho@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
